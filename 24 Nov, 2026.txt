@@ -1,0 +1,77 @@
+Youtube link: 
+    - https://www.youtube.com/watch?v=ytPEXAr5bUQ
+Date: 24 Nov, 2026
+Orientation 2
+
+Frontend (2.5 - 3m)
+    html, 
+        - hypertext markup language
+        - text formatting, buttons, forms, table, media tags, link tag etc
+    css / bootstrap / tailwindcss, 
+        - to design a whole webpage or website
+    js,
+        - programming language, DOM (Document object model)
+    Reactjs
+        - library of js powered by Facebook
+        - spa (single page application)
+        - code reuseability
+
+Backend (2.5 - 3m)
+    - php-laravel => db: mysql
+        php => programming language / server side language
+            application logic
+        laravel => framework php, mvc (model view controller)
+    - mernstack => db: mongodb
+    m :: mongodb
+        -> for database purpose
+    e :: expressjs
+        -> creating server and building urls / api (application programming interface)
+    r :: Reactjs
+        -> ui screens
+    n :: nodejs
+        -> application logic (authentication, verfication, api making)
+
+Second term (5 - 6m)
+    frontend
+    python core, django, fastapi
+    c# , asp.net
+
+
+---------------------------------
+Domain + hosting
+    - domain like our website name
+    - namelix.com
+    - namecheap.com
+
+hosting
+    - a place where our website is kept
+    - hostinger.com, godaddy.com, dreamhost.com
+
+-----------------------------------------------
+job
+    - skills
+    - ats resume (automatic tracting system format)
+    - portfolio
+    - linkedin profile
+    - github account
+
+freelancer
+    - fiverr / upwork / peopleperhour
+    - themeforest / shopify 
+    - udemy (video lecture)
+
+business
+    - company register with govt.
+
+-----------------------
+Tools and softwares
+
+Browser (Google chrome)
+Editor (vs code)
+xampp
+justcolor picker
+github desktop application
+
+AI TOOLS
+    Antigravity, ChagtGPT, Github copilot, gimini, claude, cursor
+
